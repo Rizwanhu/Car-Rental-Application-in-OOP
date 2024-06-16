@@ -1,0 +1,13 @@
+Rizwan, Hussain
+rehan, rehanhas
+basim123, basimpassword
+umerkarmat, umerkaramat567, , Forest Green, UQR 678, Land Rover Defender, 2022, 8, 5, 1, 60000, 1, SUV, Automatic, 5
+karamt, chandio
+basim, 123, , Midnight Blue, UVR 234, Lexus LS, 2020, 12, 5, 1, 59000, 1, Sedan, Automatic, 7
+basim, 123, , red, 345, ford, 2005, 12, 4, 0, 12000, 1, SUV, Automatic, 12
+umer123, umerpassword
+Talha, 123456
+talha, 12345
+basim, 123
+Rizwan, Hussain, , green, 123, Revo, 2012, 5, 3, 1, 13000, 1, Sedan, Automatic, 9
+umerkarmat, umerkaramat567

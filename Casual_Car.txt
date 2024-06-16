@@ -1,0 +1,12 @@
+Midnight Blue, XYX 416, Honda Accord, 2018, 15, 5, 0, 40000, 0, Sedan, Automatic, Good, 1
+Silver, ANO 789, Hyundai Elantra, 2021, 18, 5, 0, 35000, 0, Sedan, Automatic, Excellent, 0
+Forest Green, LGC 143, Volkswagen Jetta, 2017, 12, 5, 0, 28000, 1, Sedan, Automatic, Very Good, 1
+Cherry Red, DPF 456, Kia Soul, 2020, 13, 5, 0, 32000, 0, Hatchback, Automatic, Good, 0
+Ocean Blue, GZI 789, Mazda 3, 2019, 17, 5, 0, 38000, 0, Sedan, Automatic, Excellent, 1
+Sunset Orange, NKL 012, Toyota RAV4, 2022, 10, 5, 0, 2000, 0, SUV, Automatic, New, 1
+Graphite Gray, ONQ 345, Nissan Sentra, 2016, 14, 5, 0, 25000, 0, Sedan, Automatic, Good, 0
+Sparkling White, PQA 418, Ford Fiesta, 2020, 16, 5, 0, 30000, 0, Hatchback, Manual, Very Good, 1
+Royal Purple, RZF 901, Chevrolet Cruze, 2018, 12, 5, 0, 22000, 0, Sedan, Automatic, Good, 0
+Lime Green, QKD 434, Honda HR-V, 2021, 14, 5, 0, 36000, 1, SUV, Automatic, Excellent, 1
+red, 345, ford, 2005, 12, 4, 0, 12000, 1, SUV, Automatic, good, 1
+blue, 7383, mehran, 2013, 18, 4, 0, 12000, 0, euro 2, 4, neat, 1

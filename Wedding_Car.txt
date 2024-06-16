@@ -1,0 +1,10 @@
+Champagne, CKA 123, Lincoln Continental, 2024, 12, 5, 0, 40000, 0, Sedan, Manual, 0
+Sky Blue, DYT 456, Volvo XC90 Excellence, 2021, 11, 7, 0, 60000, 0, Luxury SUV, Automatic, 0
+Royal Purple, GHQ 789, Cadillac Escalade, 2022, 9, 7, 0, 55000, 0, SUV, Automatic, 0
+Silver, JKL 122, Mercedes-Benz E-Class Cabriolet, 2021, 14, 4, 0, 58000, 1, Convertible, Automatic, 1
+Rose Gold, INO 325, Chevrolet Corvette Stingray, 2024, 10, 2, 0, 46000, 1, Coupe, Automatic, 1
+Forest Green, UQR 678, Land Rover Defender, 2022, 8, 5, 1, 60000, 1, SUV, Automatic, 1
+Blush Pink, RXT 901, Volkswagen Beetle Convertible, 2023, 17, 4, 0, 44000, 1, Convertible, Manual, 1
+Midnight Blue, UVR 234, Lexus LS, 2020, 12, 5, 1, 59000, 1, Sedan, Automatic, 1
+Sun Yellow, NAZ 456, Audi A8L, 2021, 16, 5, 0, 43000, 1,  Long Wheelbase Sedan, Automatic, 1
+Snow White, LIO 789, Chrysler 300C, 2024, 13, 5, 0, 60000, 1, Sedan, Automatic, 1

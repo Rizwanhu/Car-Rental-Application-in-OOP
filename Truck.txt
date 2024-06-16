@@ -1,0 +1,11 @@
+Forest Green, QWE 841, Nissan Titan XD, 2023, 10, 5, 1, 40000, 0, Sedan, Manual, 1400, 5000, 4
+Fire Engine Red, KSD 345, Chevrolet Silverado 1500, 2024, 11, 6, 0, 35000, 0, Luxury SUV, Automatic, 1700, 6200, 4
+Midnight Blue, ZLX 927, Ram 2500 Power Wagon, 2022, 8, 6, 1, 48000, 0, SUV, Automatic, 3000, 9800, 4
+Royal Purple, GHT 093, Toyota Tundra TRD Pro, 2023, 9, 5, 1, 42000, 0, Convertible, Automatic, 1300, 4000, 4
+Sun Yellow, DXE 556, Ford F-350 Super Duty, 2024, 7, 6, 1, 52000, 0, Cupe, Automatic, 4500, 14000, 4
+Sky Blue, JKJ 012, Rivian R1T (Electric), 2023, 0, 5, 1, 55000, 0, SUV, Automatic, 1000, 11000, 4
+Crimson Red, XCV 739, Jeep Gladiator Mojave, 2024, 8, 5, 1, 38000, 0, Convertible, Manual, 700, 3700, 4
+Snow White, ALD 892, Freightliner Cascadia (Semi-Truck), 2022, 6, 2, 1, 68000, 0, Sedan, Automatic, 16000, 38000, 6
+Midnight Black, HAZ 315, International LT (Semi-Truck), 2023, 7, 2, 0, 62000, 0, Long WheelBase Sedan, Automatic, 18000, 40000, 6
+Silver, MNB 281, Ford Ranger Raptor, 2024, 12, 5, 0, 32000, 0, Sedan, Automatic, 850, 3200, 4
+green, 123, Revo, 2012, 5, 3, 1, 13000, 1, Sedan, Automatic, 3000, 1200, 8

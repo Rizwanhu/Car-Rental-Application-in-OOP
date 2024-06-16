@@ -1,0 +1,10 @@
+Midnight Blue, ABC 103, Bentley Continental GT, 2022, 10, 4, 0, 67000, 0, Coupe, Automatic, 1
+Silver, DEF 486, Mercedes-Benz S-Class, 2021, 12, 5, 0, 70000, 0, Sedan, Automatic, 1
+Black, GHI 709, Rolls-Royce Ghost, 2020, 14, 5, 0, 75000, 0, Sedan, Automatic, 1
+Maroon, JDO 002, Lexus LS, 2019, 11, 4, 0, 68000, 0, Sedan, Automatic, 0
+Emerald Green, MCP 345, Aston Martin DB11, 2023, 9, 2, 0, 63000, 0, Coupe, Manual, 1
+Champagne, PXO 658, BMW 7 Series, 2018, 13, 5, 0, 78000, 0, Sedan, Automatic, 0
+Midnight Black, RQT 901, Audi A8L, 2020, 12, 4, 1, 75000, 0, Long Wheelbase Sedan, Automatic, 1
+Royal Purple, UNW 034, Jaguar F-Type, 2021, 10, 2, 0, 80000, 0,  Convertible, Automatic, 1
+Crimson Red, XZZ 486, Maserati Quattroporte, 2022, 8, 5, 0, 61000, 0, Sedan, Manual, 1
+Snow White, BNO 919, Bentley Flying Spur, 2020, 11, 5, 0, 660000, 0, Sedan, Automatic, 1
